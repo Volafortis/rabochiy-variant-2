@@ -1,0 +1,73 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — копия\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\MathematicalPendulum — PictureCirclePhase\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.Cache
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.AssemblyReference.cache
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.SuggestedBindingRedirects.cache
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.cache
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.CoreCompileInputs.cache
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\Долги 2022\MathematicalPendulum-master\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.AssemblyReference.cache
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.SuggestedBindingRedirects.cache
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.cache
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.CoreCompileInputs.cache
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\Долги 2022\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.config
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.AssemblyReference.cache
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.SuggestedBindingRedirects.cache
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.Form1.resources
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.Properties.Resources.resources
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.GenerateResource.cache
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.csproj.CoreCompileInputs.cache
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.pdb
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.exe.manifest
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\bin\Debug\MathematicalPendulum.application
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.exe.manifest
+C:\Users\volaf\Desktop\рабочий вариант\MathematicalPendulum\obj\Debug\MathematicalPendulum.application
